@@ -1,0 +1,24 @@
+🚀 Meu Primeiro App com React.js + Node.js — Tela de Login
+Hoje estou muito feliz em compartilhar meu primeiro projeto fullstack utilizando React.js no front-end e Node.js no back-end! 🎉
+
+O foco inicial do app foi a criação de uma tela de login funcional, onde o usuário pode inserir seu e-mail e senha. O back-end realiza a validação dos dados e responde de forma segura, simulando uma autenticação real.
+
+🧩 Tecnologias Utilizadas:
+React.js para criação da interface com componentes reutilizáveis
+
+Node.js + Express para o servidor e rotas de autenticação
+
+CSS para estilização da tela de login
+
+JSON como base simulada de dados de usuários
+
+🧠 Aprendizados:
+Comunicação entre front-end e back-end via requisições HTTP
+
+Estruturação de componentes no React
+
+Criação de APIs simples com Node e Express
+
+Validação de campos e tratamento de erros
+
+Esse é só o começo! Estou empolgado para continuar evoluindo e integrar novas funcionalidades, como cadastro de usuários, proteção de rotas e conexão com banco de dados real.
